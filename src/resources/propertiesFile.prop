@@ -1,0 +1,4 @@
+keystorePW=cGFzc3dvcmQ=
+keystore=study_rsa.keystore
+public=public.cert
+private=atomicbanana
